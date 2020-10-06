@@ -1,0 +1,2 @@
+# Text-to-handwritten-software-deployed-using-AWS
+Text-to-Handwritten PDF generator can convert any text file into human handwriting pdf. The software is developed using python language and then to scale website on a larger level it is fetched using PHP in the backend while for frontend HTML CSS used. The software is deployed on AWS services using concepts of cloud computing. The website so forth is deployed using a serverless router system and can be available cross regions using EC2 instance. 
